@@ -3,4 +3,5 @@ aulas prof dacio
 ---
 
 
-calculadora.c é referente a aula2 do professor.
+-calculadora.c é referente a aula2 do professor.
+-raio do circulo.c é referente a aula3
