@@ -7,3 +7,5 @@ aulas prof dacio
 - raio do circulo.c é referente a aula3
 - atividadecomparadordenumeros.c é referente a aula do dia 19/08/2026
 - exer5.c é um arquivo referente á oque foi feito em sala no dia 17/08/2026 eu tinha feito upload dele em outro repositório e só upei aqui agora (19/08)
+
+- lista de exercicio 1 e lista 2 estão presentes na main
