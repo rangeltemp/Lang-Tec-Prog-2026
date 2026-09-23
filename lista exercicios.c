@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
     double valorInicial, numNotacao;
     int expoente;
     
-    printf("OBS: importei a biblioteca <math.h> nao sabia se podia ou nao, mas sem laco nao da pra fazer milagre\n\n");
+    printf("OBS: importei a biblioteca <math.h> nao sabia se podia ou nao, mas sem laco nao da pra fazer bencao\n\n");
 
     printf("Digite um valor: ");
     scanf("%lf", &valorInicial);
@@ -59,7 +59,7 @@ int main(int argc, char *argv[]) {
 	 
  	printf("O numero %d em binario = %d%d%d%d%d%d%d", n, res%2, bit_2, bit_4, bit_8, bit_16, bit_32, bit_64);
 	
-    printf("\n\n========== Exercicio 4 ==========\n");
+    printf("\n\n========= Exercicio 4 ========\n");
     
     double salarioFixo, vendasTotais, total;
     
