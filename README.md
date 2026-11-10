@@ -12,7 +12,7 @@ aulas prof dacio
 - lista de exercicio 1 e lista 2 estão presentes na main
 - lista-prova, lista-prova2, e lista-prova3 é referente a uma atividade que ocorreu no dia 30/09/2026 na qual a prova foi refeita, faltei presencialmente nesse dia mas me foi passado oque deveria ser feito referente a essa aula.
 - aula 2 bimestre.c é referente ao que foi feito em sala no dia 05/10/2026 e 07/10/2026
-- 
+- aula dia 09-10 é referente ao código que foi passado em sala no dia 09/10/2026
 
 
 
